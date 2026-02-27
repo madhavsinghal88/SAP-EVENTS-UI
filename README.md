@@ -1,4 +1,4 @@
-# SAP Events Tracker 🚀
+# SAP EVENTS UI 🚀
 
 A premium, modern dashboard for tracking and managing applications to SAP events. Designed with a high-end dark aesthetic, glassmorphism, and automated state management.
 

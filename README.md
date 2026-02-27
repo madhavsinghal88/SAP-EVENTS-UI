@@ -50,4 +50,3 @@ To maintain persistence in production:
 3. Set up a **Vercel Cron Job** to trigger the hourly scraper update.
 
 ---
-Created by Antigravity AI.

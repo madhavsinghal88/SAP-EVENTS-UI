@@ -1,0 +1,2225 @@
+[
+  {
+    "title": "SAP Concur Fusion New Orleans",
+    "date": "March 17–19, 2026",
+    "location": "New Orleans, USA",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/concur-fusion.html",
+    "id": "1",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Concur Fusion Virtual",
+    "date": "March 19, 2026",
+    "location": "Virtual",
+    "type": "Virtual",
+    "link": "https://www.sap.com/events/concur-fusion-virtual.html",
+    "id": "2",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Sapphire & ASUG Annual Conference Orlando",
+    "date": "May 11–13, 2026",
+    "location": "Orlando, Florida, USA",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/sapphire-orlando.html",
+    "id": "3",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Sapphire Virtual",
+    "date": "May 12–13, 2026",
+    "location": "Virtual",
+    "type": "Virtual",
+    "link": "https://www.sap.com/events/sapphire-virtual.html",
+    "id": "4",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Sapphire Madrid",
+    "date": "May 19–21, 2026",
+    "location": "Madrid, Spain",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/sapphire-madrid.html",
+    "id": "5",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Connect (Las Vegas & Virtual)",
+    "date": "October 5–7, 2026",
+    "location": "Las Vegas, USA",
+    "type": "Hybrid",
+    "link": "https://www.sap.com/events/sap-connect.html",
+    "id": "6",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Customer Experience Connect Las Vegas",
+    "date": "October 5–7, 2026",
+    "location": "Las Vegas, USA",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/cx-connect.html",
+    "id": "7",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP TechEd Berlin",
+    "date": "October 27–29, 2026",
+    "location": "Berlin, Germany",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/teched-berlin.html",
+    "id": "8",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Inside Track Bengaluru",
+    "date": "February 28, 2026",
+    "location": "Bengaluru, India",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/inside-track-bengaluru.html",
+    "id": "9",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Connect Day for Finance & Spend Management",
+    "date": "March 4, 2026",
+    "location": "Düsseldorf, Germany",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/finance-spend.html",
+    "id": "10",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Connect Day for Supply Chain London",
+    "date": "March 12, 2026",
+    "location": "London, UK",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/supply-chain-london.html",
+    "id": "11",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Connect Day for Data & IT Dublin",
+    "date": "March 10, 2026",
+    "location": "Dublin, Ireland",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/data-it-dublin.html",
+    "id": "12",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP Connect Day for Data & IT London",
+    "date": "March 19, 2026",
+    "location": "London, UK",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/data-it-london.html",
+    "id": "13",
+    "status": "not_applied"
+  },
+  {
+    "title": "Moving to Cloud ERP: Strategy and Success",
+    "date": "March 24, 2026",
+    "location": "London, UK",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/cloud-erp-strategy.html",
+    "id": "14",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAPinsider Las Vegas 2026",
+    "date": "March 16–19, 2026",
+    "location": "Las Vegas, NV, USA",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/sapinsider.html",
+    "id": "15",
+    "status": "not_applied"
+  },
+  {
+    "title": "SAP HR Connect London 2026",
+    "date": "April 23, 2026",
+    "location": "London, UK",
+    "type": "In-Person",
+    "link": "https://www.sap.com/events/hr-connect.html",
+    "id": "16",
+    "status": "not_applied"
+  },
+  {
+    "title": "Talking AI with SAP: Connecting the Dots",
+    "date": "February 27, 2026",
+    "location": "Online - Live",
+    "type": "Virtual",
+    "link": "https://www.sap.com/events/talking-ai.html",
+    "id": "17",
+    "status": "not_applied"
+  },
+  {
+    "id": "18",
+    "title": "SAP Finance Summit Tokyo",
+    "date": "May 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-17.html"
+  },
+  {
+    "id": "19",
+    "title": "SAP Business Process Summit Singapore",
+    "date": "May 16, 2026",
+    "location": "Singapore, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-18.html"
+  },
+  {
+    "id": "20",
+    "title": "SAP AI & Data Forum Stockholm",
+    "date": "July 18, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-19.html"
+  },
+  {
+    "id": "21",
+    "title": "SAP Platform & Technology Summit Stockholm",
+    "date": "December 16, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-20.html"
+  },
+  {
+    "id": "22",
+    "title": "SAP AI & Data Summit Tokyo",
+    "date": "September 23, 2026",
+    "location": "Tokyo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-21.html"
+  },
+  {
+    "id": "23",
+    "title": "SAP Customer Experience Forum Toronto",
+    "date": "September 1, 2026",
+    "location": "Toronto, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-22.html"
+  },
+  {
+    "id": "24",
+    "title": "SAP Supply Chain Forum Stockholm",
+    "date": "June 13, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-23.html"
+  },
+  {
+    "id": "25",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "May 6, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-24.html"
+  },
+  {
+    "id": "26",
+    "title": "SAP Business Process Forum Mumbai",
+    "date": "May 16, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-25.html"
+  },
+  {
+    "id": "27",
+    "title": "SAP Finance Forum Johannesburg",
+    "date": "April 27, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-26.html"
+  },
+  {
+    "id": "28",
+    "title": "SAP HR Forum Dubai",
+    "date": "August 23, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-27.html"
+  },
+  {
+    "id": "29",
+    "title": "SAP Platform & Technology Forum Singapore",
+    "date": "September 25, 2026",
+    "location": "Singapore, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-28.html"
+  },
+  {
+    "id": "30",
+    "title": "SAP Platform & Technology Summit Singapore",
+    "date": "December 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-29.html"
+  },
+  {
+    "id": "31",
+    "title": "SAP Business Process Forum Mumbai",
+    "date": "June 21, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-30.html"
+  },
+  {
+    "id": "32",
+    "title": "SAP Analytics Forum Tokyo",
+    "date": "April 14, 2026",
+    "location": "Tokyo, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-31.html"
+  },
+  {
+    "id": "33",
+    "title": "SAP Business Process Summit Toronto",
+    "date": "September 18, 2026",
+    "location": "Toronto, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-32.html"
+  },
+  {
+    "id": "34",
+    "title": "SAP Business Process Forum Stockholm",
+    "date": "December 7, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-33.html"
+  },
+  {
+    "id": "35",
+    "title": "SAP Customer Experience Forum Singapore",
+    "date": "July 14, 2026",
+    "location": "Singapore, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-34.html"
+  },
+  {
+    "id": "36",
+    "title": "SAP Supply Chain Forum Dubai",
+    "date": "July 10, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-35.html"
+  },
+  {
+    "id": "37",
+    "title": "SAP Platform & Technology Summit Johannesburg",
+    "date": "April 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-36.html"
+  },
+  {
+    "id": "38",
+    "title": "SAP Customer Experience Summit Tokyo",
+    "date": "July 11, 2026",
+    "location": "Tokyo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-37.html"
+  },
+  {
+    "id": "39",
+    "title": "SAP AI & Data Forum Sydney",
+    "date": "December 13, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-38.html"
+  },
+  {
+    "id": "40",
+    "title": "SAP Business Process Summit Johannesburg",
+    "date": "November 26, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-39.html"
+  },
+  {
+    "id": "41",
+    "title": "SAP Platform & Technology Forum Toronto",
+    "date": "December 4, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-40.html"
+  },
+  {
+    "id": "42",
+    "title": "SAP Business Process Summit Dubai",
+    "date": "July 19, 2026",
+    "location": "Dubai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-41.html"
+  },
+  {
+    "id": "43",
+    "title": "SAP Analytics Forum Stockholm",
+    "date": "September 8, 2026",
+    "location": "Stockholm, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-42.html"
+  },
+  {
+    "id": "44",
+    "title": "SAP Finance Forum Paris",
+    "date": "July 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-43.html"
+  },
+  {
+    "id": "45",
+    "title": "SAP Analytics Forum Singapore",
+    "date": "August 20, 2026",
+    "location": "Singapore, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-44.html"
+  },
+  {
+    "id": "46",
+    "title": "SAP Sustainability Forum Mumbai",
+    "date": "April 20, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-45.html"
+  },
+  {
+    "id": "47",
+    "title": "SAP HR Forum Toronto",
+    "date": "May 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-46.html"
+  },
+  {
+    "id": "48",
+    "title": "SAP AI & Data Summit Mumbai",
+    "date": "April 13, 2026",
+    "location": "Mumbai, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-47.html"
+  },
+  {
+    "id": "49",
+    "title": "SAP Platform & Technology Summit Dubai",
+    "date": "November 14, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-48.html"
+  },
+  {
+    "id": "50",
+    "title": "SAP HR Forum Mumbai",
+    "date": "August 28, 2026",
+    "location": "Mumbai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-49.html"
+  },
+  {
+    "id": "51",
+    "title": "SAP HR Forum San Francisco",
+    "date": "August 19, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-50.html"
+  },
+  {
+    "id": "52",
+    "title": "SAP Analytics Forum Paris",
+    "date": "August 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-51.html"
+  },
+  {
+    "id": "53",
+    "title": "SAP Supply Chain Summit Dubai",
+    "date": "November 17, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-52.html"
+  },
+  {
+    "id": "54",
+    "title": "SAP Analytics Forum Sao Paulo",
+    "date": "November 15, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-53.html"
+  },
+  {
+    "id": "55",
+    "title": "SAP Customer Experience Forum Paris",
+    "date": "June 17, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-54.html"
+  },
+  {
+    "id": "56",
+    "title": "SAP Supply Chain Summit Tokyo",
+    "date": "September 8, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-55.html"
+  },
+  {
+    "id": "57",
+    "title": "SAP Business Process Forum Dubai",
+    "date": "August 16, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-56.html"
+  },
+  {
+    "id": "58",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "July 8, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-57.html"
+  },
+  {
+    "id": "59",
+    "title": "SAP AI & Data Summit Paris",
+    "date": "August 10, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-58.html"
+  },
+  {
+    "id": "60",
+    "title": "SAP AI & Data Summit Sydney",
+    "date": "November 14, 2026",
+    "location": "Sydney, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-59.html"
+  },
+  {
+    "id": "61",
+    "title": "SAP Finance Forum Toronto",
+    "date": "May 20, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-60.html"
+  },
+  {
+    "id": "62",
+    "title": "SAP Customer Experience Forum Johannesburg",
+    "date": "September 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-61.html"
+  },
+  {
+    "id": "63",
+    "title": "SAP HR Forum Mumbai",
+    "date": "September 28, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-62.html"
+  },
+  {
+    "id": "64",
+    "title": "SAP Analytics Summit Mumbai",
+    "date": "November 16, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-63.html"
+  },
+  {
+    "id": "65",
+    "title": "SAP AI & Data Summit San Francisco",
+    "date": "August 25, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-64.html"
+  },
+  {
+    "id": "66",
+    "title": "SAP Customer Experience Forum Stockholm",
+    "date": "August 4, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-65.html"
+  },
+  {
+    "id": "67",
+    "title": "SAP HR Forum Dubai",
+    "date": "September 22, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-66.html"
+  },
+  {
+    "id": "68",
+    "title": "SAP Cloud ERP Summit Paris",
+    "date": "April 15, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-67.html"
+  },
+  {
+    "id": "69",
+    "title": "SAP Platform & Technology Summit Dubai",
+    "date": "April 18, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-68.html"
+  },
+  {
+    "id": "70",
+    "title": "SAP Sustainability Forum Toronto",
+    "date": "November 28, 2026",
+    "location": "Toronto, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-69.html"
+  },
+  {
+    "id": "71",
+    "title": "SAP Cloud ERP Forum Mumbai",
+    "date": "June 13, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-70.html"
+  },
+  {
+    "id": "72",
+    "title": "SAP AI & Data Summit Sao Paulo",
+    "date": "May 24, 2026",
+    "location": "Sao Paulo, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-71.html"
+  },
+  {
+    "id": "73",
+    "title": "SAP AI & Data Forum Johannesburg",
+    "date": "December 12, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-72.html"
+  },
+  {
+    "id": "74",
+    "title": "SAP AI & Data Forum San Francisco",
+    "date": "November 3, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-73.html"
+  },
+  {
+    "id": "75",
+    "title": "SAP Customer Experience Summit Johannesburg",
+    "date": "August 23, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-74.html"
+  },
+  {
+    "id": "76",
+    "title": "SAP Supply Chain Forum Chicago",
+    "date": "July 22, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-75.html"
+  },
+  {
+    "id": "77",
+    "title": "SAP Cloud ERP Forum Tokyo",
+    "date": "July 25, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-76.html"
+  },
+  {
+    "id": "78",
+    "title": "SAP AI & Data Summit Sydney",
+    "date": "September 22, 2026",
+    "location": "Sydney, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-77.html"
+  },
+  {
+    "id": "79",
+    "title": "SAP Finance Forum Mumbai",
+    "date": "April 25, 2026",
+    "location": "Mumbai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-78.html"
+  },
+  {
+    "id": "80",
+    "title": "SAP Cloud ERP Summit Chicago",
+    "date": "July 18, 2026",
+    "location": "Chicago, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-79.html"
+  },
+  {
+    "id": "81",
+    "title": "SAP Customer Experience Summit Mumbai",
+    "date": "April 8, 2026",
+    "location": "Mumbai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-80.html"
+  },
+  {
+    "id": "82",
+    "title": "SAP HR Summit Stockholm",
+    "date": "July 23, 2026",
+    "location": "Stockholm, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-81.html"
+  },
+  {
+    "id": "83",
+    "title": "SAP Sustainability Summit Mumbai",
+    "date": "November 5, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-82.html"
+  },
+  {
+    "id": "84",
+    "title": "SAP HR Forum Chicago",
+    "date": "May 15, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-83.html"
+  },
+  {
+    "id": "85",
+    "title": "SAP AI & Data Summit Paris",
+    "date": "May 18, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-84.html"
+  },
+  {
+    "id": "86",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "November 27, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-85.html"
+  },
+  {
+    "id": "87",
+    "title": "SAP AI & Data Summit Tokyo",
+    "date": "December 5, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-86.html"
+  },
+  {
+    "id": "88",
+    "title": "SAP Analytics Summit Singapore",
+    "date": "July 27, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-87.html"
+  },
+  {
+    "id": "89",
+    "title": "SAP Customer Experience Summit Paris",
+    "date": "May 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-88.html"
+  },
+  {
+    "id": "90",
+    "title": "SAP Customer Experience Forum Dubai",
+    "date": "December 7, 2026",
+    "location": "Dubai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-89.html"
+  },
+  {
+    "id": "91",
+    "title": "SAP Sustainability Summit Chicago",
+    "date": "December 18, 2026",
+    "location": "Chicago, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-90.html"
+  },
+  {
+    "id": "92",
+    "title": "SAP Sustainability Summit Chicago",
+    "date": "June 6, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-91.html"
+  },
+  {
+    "id": "93",
+    "title": "SAP Sustainability Summit Johannesburg",
+    "date": "April 20, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-92.html"
+  },
+  {
+    "id": "94",
+    "title": "SAP Customer Experience Summit Johannesburg",
+    "date": "July 27, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-93.html"
+  },
+  {
+    "id": "95",
+    "title": "SAP Platform & Technology Summit Stockholm",
+    "date": "April 25, 2026",
+    "location": "Stockholm, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-94.html"
+  },
+  {
+    "id": "96",
+    "title": "SAP Finance Forum Mumbai",
+    "date": "July 23, 2026",
+    "location": "Mumbai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-95.html"
+  },
+  {
+    "id": "97",
+    "title": "SAP AI & Data Forum Tokyo",
+    "date": "August 19, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-96.html"
+  },
+  {
+    "id": "98",
+    "title": "SAP Platform & Technology Summit Mumbai",
+    "date": "August 9, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-97.html"
+  },
+  {
+    "id": "99",
+    "title": "SAP Platform & Technology Summit Chicago",
+    "date": "April 15, 2026",
+    "location": "Chicago, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-98.html"
+  },
+  {
+    "id": "100",
+    "title": "SAP Customer Experience Forum Sao Paulo",
+    "date": "September 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-99.html"
+  },
+  {
+    "id": "101",
+    "title": "SAP AI & Data Summit Sydney",
+    "date": "December 24, 2026",
+    "location": "Sydney, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-100.html"
+  },
+  {
+    "id": "102",
+    "title": "SAP AI & Data Summit Dubai",
+    "date": "September 18, 2026",
+    "location": "Dubai, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-101.html"
+  },
+  {
+    "id": "103",
+    "title": "SAP Platform & Technology Summit Toronto",
+    "date": "August 12, 2026",
+    "location": "Toronto, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-102.html"
+  },
+  {
+    "id": "104",
+    "title": "SAP Analytics Summit Sydney",
+    "date": "December 12, 2026",
+    "location": "Sydney, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-103.html"
+  },
+  {
+    "id": "105",
+    "title": "SAP Supply Chain Summit Chicago",
+    "date": "November 13, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-104.html"
+  },
+  {
+    "id": "106",
+    "title": "SAP Finance Forum Toronto",
+    "date": "August 15, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-105.html"
+  },
+  {
+    "id": "107",
+    "title": "SAP Analytics Summit Paris",
+    "date": "May 27, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-106.html"
+  },
+  {
+    "id": "108",
+    "title": "SAP Business Process Forum Mumbai",
+    "date": "April 3, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-107.html"
+  },
+  {
+    "id": "109",
+    "title": "SAP Finance Summit Stockholm",
+    "date": "April 22, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-108.html"
+  },
+  {
+    "id": "110",
+    "title": "SAP Business Process Summit Tokyo",
+    "date": "September 1, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-109.html"
+  },
+  {
+    "id": "111",
+    "title": "SAP Business Process Summit Stockholm",
+    "date": "August 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-110.html"
+  },
+  {
+    "id": "112",
+    "title": "SAP Platform & Technology Forum Paris",
+    "date": "November 23, 2026",
+    "location": "Paris, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-111.html"
+  },
+  {
+    "id": "113",
+    "title": "SAP Analytics Forum Tokyo",
+    "date": "June 26, 2026",
+    "location": "Tokyo, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-112.html"
+  },
+  {
+    "id": "114",
+    "title": "SAP HR Forum Chicago",
+    "date": "November 9, 2026",
+    "location": "Chicago, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-113.html"
+  },
+  {
+    "id": "115",
+    "title": "SAP Platform & Technology Summit Sydney",
+    "date": "December 11, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-114.html"
+  },
+  {
+    "id": "116",
+    "title": "SAP AI & Data Forum Sydney",
+    "date": "November 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-115.html"
+  },
+  {
+    "id": "117",
+    "title": "SAP AI & Data Forum Sao Paulo",
+    "date": "June 4, 2026",
+    "location": "Sao Paulo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-116.html"
+  },
+  {
+    "id": "118",
+    "title": "SAP AI & Data Summit Chicago",
+    "date": "July 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-117.html"
+  },
+  {
+    "id": "119",
+    "title": "SAP Analytics Forum Paris",
+    "date": "September 17, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-118.html"
+  },
+  {
+    "id": "120",
+    "title": "SAP Business Process Forum Chicago",
+    "date": "August 22, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-119.html"
+  },
+  {
+    "id": "121",
+    "title": "SAP Finance Summit Singapore",
+    "date": "May 3, 2026",
+    "location": "Singapore, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-120.html"
+  },
+  {
+    "id": "122",
+    "title": "SAP Supply Chain Summit Sydney",
+    "date": "November 2, 2026",
+    "location": "Sydney, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-121.html"
+  },
+  {
+    "id": "123",
+    "title": "SAP Cloud ERP Forum Paris",
+    "date": "August 4, 2026",
+    "location": "Paris, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-122.html"
+  },
+  {
+    "id": "124",
+    "title": "SAP Finance Summit Sao Paulo",
+    "date": "December 26, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-123.html"
+  },
+  {
+    "id": "125",
+    "title": "SAP AI & Data Forum Paris",
+    "date": "November 3, 2026",
+    "location": "Paris, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-124.html"
+  },
+  {
+    "id": "126",
+    "title": "SAP Supply Chain Summit Mumbai",
+    "date": "April 24, 2026",
+    "location": "Mumbai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-125.html"
+  },
+  {
+    "id": "127",
+    "title": "SAP Business Process Forum Tokyo",
+    "date": "November 27, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-126.html"
+  },
+  {
+    "id": "128",
+    "title": "SAP Finance Summit Stockholm",
+    "date": "July 2, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-127.html"
+  },
+  {
+    "id": "129",
+    "title": "SAP Analytics Forum Sao Paulo",
+    "date": "August 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-128.html"
+  },
+  {
+    "id": "130",
+    "title": "SAP Business Process Summit Stockholm",
+    "date": "September 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-129.html"
+  },
+  {
+    "id": "131",
+    "title": "SAP Cloud ERP Forum Sydney",
+    "date": "May 15, 2026",
+    "location": "Sydney, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-130.html"
+  },
+  {
+    "id": "132",
+    "title": "SAP Supply Chain Summit Stockholm",
+    "date": "December 27, 2026",
+    "location": "Stockholm, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-131.html"
+  },
+  {
+    "id": "133",
+    "title": "SAP Analytics Summit Johannesburg",
+    "date": "September 8, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-132.html"
+  },
+  {
+    "id": "134",
+    "title": "SAP Customer Experience Summit Johannesburg",
+    "date": "July 16, 2026",
+    "location": "Johannesburg, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-133.html"
+  },
+  {
+    "id": "135",
+    "title": "SAP Analytics Summit Paris",
+    "date": "April 25, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-134.html"
+  },
+  {
+    "id": "136",
+    "title": "SAP Analytics Forum Stockholm",
+    "date": "May 1, 2026",
+    "location": "Stockholm, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-135.html"
+  },
+  {
+    "id": "137",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "December 18, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-136.html"
+  },
+  {
+    "id": "138",
+    "title": "SAP AI & Data Summit Singapore",
+    "date": "July 18, 2026",
+    "location": "Singapore, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-137.html"
+  },
+  {
+    "id": "139",
+    "title": "SAP Finance Forum Johannesburg",
+    "date": "December 9, 2026",
+    "location": "Johannesburg, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-138.html"
+  },
+  {
+    "id": "140",
+    "title": "SAP Analytics Forum San Francisco",
+    "date": "July 11, 2026",
+    "location": "San Francisco, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-139.html"
+  },
+  {
+    "id": "141",
+    "title": "SAP Business Process Forum Dubai",
+    "date": "May 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-140.html"
+  },
+  {
+    "id": "142",
+    "title": "SAP Business Process Summit Sao Paulo",
+    "date": "July 20, 2026",
+    "location": "Sao Paulo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-141.html"
+  },
+  {
+    "id": "143",
+    "title": "SAP Customer Experience Summit Chicago",
+    "date": "April 7, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-142.html"
+  },
+  {
+    "id": "144",
+    "title": "SAP Platform & Technology Forum Toronto",
+    "date": "August 25, 2026",
+    "location": "Toronto, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-143.html"
+  },
+  {
+    "id": "145",
+    "title": "SAP Customer Experience Summit Paris",
+    "date": "May 9, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-144.html"
+  },
+  {
+    "id": "146",
+    "title": "SAP Finance Forum Paris",
+    "date": "December 12, 2026",
+    "location": "Paris, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-145.html"
+  },
+  {
+    "id": "147",
+    "title": "SAP Business Process Forum Toronto",
+    "date": "November 20, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-146.html"
+  },
+  {
+    "id": "148",
+    "title": "SAP Platform & Technology Forum Dubai",
+    "date": "September 14, 2026",
+    "location": "Dubai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-147.html"
+  },
+  {
+    "id": "149",
+    "title": "SAP Sustainability Summit Dubai",
+    "date": "June 4, 2026",
+    "location": "Dubai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-148.html"
+  },
+  {
+    "id": "150",
+    "title": "SAP Customer Experience Forum Chicago",
+    "date": "December 8, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-149.html"
+  },
+  {
+    "id": "151",
+    "title": "SAP AI & Data Forum San Francisco",
+    "date": "September 11, 2026",
+    "location": "San Francisco, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-150.html"
+  },
+  {
+    "id": "152",
+    "title": "SAP Finance Forum Johannesburg",
+    "date": "August 22, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-151.html"
+  },
+  {
+    "id": "153",
+    "title": "SAP Platform & Technology Summit Stockholm",
+    "date": "June 12, 2026",
+    "location": "Stockholm, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-152.html"
+  },
+  {
+    "id": "154",
+    "title": "SAP Analytics Summit Chicago",
+    "date": "December 3, 2026",
+    "location": "Chicago, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-153.html"
+  },
+  {
+    "id": "155",
+    "title": "SAP Customer Experience Forum Chicago",
+    "date": "September 7, 2026",
+    "location": "Chicago, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-154.html"
+  },
+  {
+    "id": "156",
+    "title": "SAP Finance Summit Tokyo",
+    "date": "May 14, 2026",
+    "location": "Tokyo, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-155.html"
+  },
+  {
+    "id": "157",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "June 3, 2026",
+    "location": "Dubai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-156.html"
+  },
+  {
+    "id": "158",
+    "title": "SAP AI & Data Forum Toronto",
+    "date": "May 26, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-157.html"
+  },
+  {
+    "id": "159",
+    "title": "SAP HR Summit Johannesburg",
+    "date": "July 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-158.html"
+  },
+  {
+    "id": "160",
+    "title": "SAP Sustainability Forum Stockholm",
+    "date": "July 4, 2026",
+    "location": "Stockholm, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-159.html"
+  },
+  {
+    "id": "161",
+    "title": "SAP Cloud ERP Summit San Francisco",
+    "date": "September 9, 2026",
+    "location": "San Francisco, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-160.html"
+  },
+  {
+    "id": "162",
+    "title": "SAP AI & Data Summit Johannesburg",
+    "date": "May 5, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-161.html"
+  },
+  {
+    "id": "163",
+    "title": "SAP Sustainability Forum San Francisco",
+    "date": "September 19, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-162.html"
+  },
+  {
+    "id": "164",
+    "title": "SAP Business Process Forum Toronto",
+    "date": "May 5, 2026",
+    "location": "Toronto, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-163.html"
+  },
+  {
+    "id": "165",
+    "title": "SAP Supply Chain Forum Toronto",
+    "date": "November 26, 2026",
+    "location": "Toronto, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-164.html"
+  },
+  {
+    "id": "166",
+    "title": "SAP Cloud ERP Summit Singapore",
+    "date": "September 7, 2026",
+    "location": "Singapore, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-165.html"
+  },
+  {
+    "id": "167",
+    "title": "SAP Platform & Technology Summit Toronto",
+    "date": "April 9, 2026",
+    "location": "Toronto, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-166.html"
+  },
+  {
+    "id": "168",
+    "title": "SAP Supply Chain Summit Paris",
+    "date": "April 21, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-167.html"
+  },
+  {
+    "id": "169",
+    "title": "SAP Finance Summit Chicago",
+    "date": "September 19, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-168.html"
+  },
+  {
+    "id": "170",
+    "title": "SAP Customer Experience Forum Singapore",
+    "date": "September 1, 2026",
+    "location": "Singapore, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-169.html"
+  },
+  {
+    "id": "171",
+    "title": "SAP Finance Forum Singapore",
+    "date": "June 10, 2026",
+    "location": "Singapore, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-170.html"
+  },
+  {
+    "id": "172",
+    "title": "SAP Cloud ERP Forum Sydney",
+    "date": "April 26, 2026",
+    "location": "Sydney, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-171.html"
+  },
+  {
+    "id": "173",
+    "title": "SAP Customer Experience Forum Johannesburg",
+    "date": "April 17, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-172.html"
+  },
+  {
+    "id": "174",
+    "title": "SAP Platform & Technology Forum Sao Paulo",
+    "date": "December 12, 2026",
+    "location": "Sao Paulo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-173.html"
+  },
+  {
+    "id": "175",
+    "title": "SAP Finance Summit Stockholm",
+    "date": "September 22, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-174.html"
+  },
+  {
+    "id": "176",
+    "title": "SAP HR Forum Sao Paulo",
+    "date": "November 28, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-175.html"
+  },
+  {
+    "id": "177",
+    "title": "SAP Business Process Forum Sao Paulo",
+    "date": "July 3, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-176.html"
+  },
+  {
+    "id": "178",
+    "title": "SAP AI & Data Forum Chicago",
+    "date": "July 21, 2026",
+    "location": "Chicago, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-177.html"
+  },
+  {
+    "id": "179",
+    "title": "SAP Cloud ERP Summit Singapore",
+    "date": "May 4, 2026",
+    "location": "Singapore, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-178.html"
+  },
+  {
+    "id": "180",
+    "title": "SAP Customer Experience Summit Toronto",
+    "date": "November 10, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-179.html"
+  },
+  {
+    "id": "181",
+    "title": "SAP AI & Data Summit Tokyo",
+    "date": "August 4, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-180.html"
+  },
+  {
+    "id": "182",
+    "title": "SAP Customer Experience Forum Sydney",
+    "date": "June 12, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-181.html"
+  },
+  {
+    "id": "183",
+    "title": "SAP Analytics Summit Paris",
+    "date": "May 19, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-182.html"
+  },
+  {
+    "id": "184",
+    "title": "SAP Supply Chain Forum Chicago",
+    "date": "June 24, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-183.html"
+  },
+  {
+    "id": "185",
+    "title": "SAP Business Process Summit Johannesburg",
+    "date": "September 19, 2026",
+    "location": "Johannesburg, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-184.html"
+  },
+  {
+    "id": "186",
+    "title": "SAP Finance Forum San Francisco",
+    "date": "May 8, 2026",
+    "location": "San Francisco, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-185.html"
+  },
+  {
+    "id": "187",
+    "title": "SAP HR Forum Toronto",
+    "date": "May 19, 2026",
+    "location": "Toronto, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-186.html"
+  },
+  {
+    "id": "188",
+    "title": "SAP Finance Summit Singapore",
+    "date": "July 27, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-187.html"
+  },
+  {
+    "id": "189",
+    "title": "SAP Business Process Forum Toronto",
+    "date": "May 20, 2026",
+    "location": "Toronto, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-188.html"
+  },
+  {
+    "id": "190",
+    "title": "SAP AI & Data Forum Mumbai",
+    "date": "August 23, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-189.html"
+  },
+  {
+    "id": "191",
+    "title": "SAP Analytics Summit Stockholm",
+    "date": "December 8, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-190.html"
+  },
+  {
+    "id": "192",
+    "title": "SAP Sustainability Summit Paris",
+    "date": "December 13, 2026",
+    "location": "Paris, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-191.html"
+  },
+  {
+    "id": "193",
+    "title": "SAP Customer Experience Summit Stockholm",
+    "date": "August 26, 2026",
+    "location": "Stockholm, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-192.html"
+  },
+  {
+    "id": "194",
+    "title": "SAP Cloud ERP Summit Stockholm",
+    "date": "August 1, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-193.html"
+  },
+  {
+    "id": "195",
+    "title": "SAP Platform & Technology Forum Chicago",
+    "date": "June 24, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-194.html"
+  },
+  {
+    "id": "196",
+    "title": "SAP Customer Experience Forum Tokyo",
+    "date": "April 13, 2026",
+    "location": "Tokyo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-195.html"
+  },
+  {
+    "id": "197",
+    "title": "SAP Platform & Technology Forum Stockholm",
+    "date": "November 8, 2026",
+    "location": "Stockholm, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-196.html"
+  },
+  {
+    "id": "198",
+    "title": "SAP Analytics Forum Mumbai",
+    "date": "December 23, 2026",
+    "location": "Mumbai, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-197.html"
+  },
+  {
+    "id": "199",
+    "title": "SAP HR Summit Stockholm",
+    "date": "May 3, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-198.html"
+  },
+  {
+    "id": "200",
+    "title": "SAP Business Process Forum Sydney",
+    "date": "August 18, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-199.html"
+  },
+  {
+    "id": "201",
+    "title": "SAP Finance Summit Johannesburg",
+    "date": "July 27, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-200.html"
+  },
+  {
+    "id": "202",
+    "title": "SAP Analytics Summit Dubai",
+    "date": "August 25, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-201.html"
+  },
+  {
+    "id": "203",
+    "title": "SAP AI & Data Summit San Francisco",
+    "date": "December 21, 2026",
+    "location": "San Francisco, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-202.html"
+  },
+  {
+    "id": "204",
+    "title": "SAP Sustainability Summit Dubai",
+    "date": "July 12, 2026",
+    "location": "Dubai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-203.html"
+  },
+  {
+    "id": "205",
+    "title": "SAP Analytics Summit Sydney",
+    "date": "December 13, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-204.html"
+  },
+  {
+    "id": "206",
+    "title": "SAP HR Forum Chicago",
+    "date": "December 11, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-205.html"
+  },
+  {
+    "id": "207",
+    "title": "SAP Customer Experience Forum Toronto",
+    "date": "December 4, 2026",
+    "location": "Toronto, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-206.html"
+  },
+  {
+    "id": "208",
+    "title": "SAP Supply Chain Forum Sao Paulo",
+    "date": "May 25, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-207.html"
+  },
+  {
+    "id": "209",
+    "title": "SAP Sustainability Summit Stockholm",
+    "date": "December 14, 2026",
+    "location": "Stockholm, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-208.html"
+  },
+  {
+    "id": "210",
+    "title": "SAP Analytics Summit Johannesburg",
+    "date": "December 2, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-209.html"
+  },
+  {
+    "id": "211",
+    "title": "SAP Business Process Forum Sao Paulo",
+    "date": "April 22, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-210.html"
+  },
+  {
+    "id": "212",
+    "title": "SAP Supply Chain Forum Johannesburg",
+    "date": "September 9, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-211.html"
+  },
+  {
+    "id": "213",
+    "title": "SAP Business Process Summit Sao Paulo",
+    "date": "July 19, 2026",
+    "location": "Sao Paulo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-212.html"
+  },
+  {
+    "id": "214",
+    "title": "SAP Finance Forum Singapore",
+    "date": "August 18, 2026",
+    "location": "Singapore, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-213.html"
+  },
+  {
+    "id": "215",
+    "title": "SAP Supply Chain Summit Sydney",
+    "date": "May 16, 2026",
+    "location": "Sydney, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-214.html"
+  },
+  {
+    "id": "216",
+    "title": "SAP Customer Experience Summit Mumbai",
+    "date": "September 9, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-215.html"
+  },
+  {
+    "id": "217",
+    "title": "SAP Finance Forum San Francisco",
+    "date": "November 24, 2026",
+    "location": "San Francisco, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-216.html"
+  },
+  {
+    "id": "218",
+    "title": "SAP Sustainability Forum Johannesburg",
+    "date": "August 28, 2026",
+    "location": "Johannesburg, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-217.html"
+  },
+  {
+    "id": "219",
+    "title": "SAP Customer Experience Forum Paris",
+    "date": "May 5, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-218.html"
+  },
+  {
+    "id": "220",
+    "title": "SAP Analytics Forum Johannesburg",
+    "date": "December 2, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-219.html"
+  },
+  {
+    "id": "221",
+    "title": "SAP Sustainability Summit Sydney",
+    "date": "July 24, 2026",
+    "location": "Sydney, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-220.html"
+  },
+  {
+    "id": "222",
+    "title": "SAP Supply Chain Forum Tokyo",
+    "date": "August 11, 2026",
+    "location": "Tokyo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-221.html"
+  },
+  {
+    "id": "223",
+    "title": "SAP Business Process Summit Toronto",
+    "date": "November 13, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-222.html"
+  },
+  {
+    "id": "224",
+    "title": "SAP Finance Summit San Francisco",
+    "date": "May 24, 2026",
+    "location": "San Francisco, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-223.html"
+  },
+  {
+    "id": "225",
+    "title": "SAP Cloud ERP Summit Toronto",
+    "date": "November 4, 2026",
+    "location": "Toronto, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-224.html"
+  },
+  {
+    "id": "226",
+    "title": "SAP Cloud ERP Summit Sydney",
+    "date": "April 13, 2026",
+    "location": "Sydney, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-225.html"
+  },
+  {
+    "id": "227",
+    "title": "SAP Finance Forum Dubai",
+    "date": "December 1, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-226.html"
+  },
+  {
+    "id": "228",
+    "title": "SAP Finance Summit Toronto",
+    "date": "April 11, 2026",
+    "location": "Toronto, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-227.html"
+  },
+  {
+    "id": "229",
+    "title": "SAP Supply Chain Summit San Francisco",
+    "date": "August 11, 2026",
+    "location": "San Francisco, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-228.html"
+  },
+  {
+    "id": "230",
+    "title": "SAP HR Summit Mumbai",
+    "date": "September 24, 2026",
+    "location": "Mumbai, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/hr-229.html"
+  },
+  {
+    "id": "231",
+    "title": "SAP Finance Summit Paris",
+    "date": "July 12, 2026",
+    "location": "Paris, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/finance-230.html"
+  },
+  {
+    "id": "232",
+    "title": "SAP Supply Chain Forum San Francisco",
+    "date": "April 14, 2026",
+    "location": "San Francisco, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-231.html"
+  },
+  {
+    "id": "233",
+    "title": "SAP Platform & Technology Summit Tokyo",
+    "date": "August 25, 2026",
+    "location": "Tokyo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-232.html"
+  },
+  {
+    "id": "234",
+    "title": "SAP Platform & Technology Summit Dubai",
+    "date": "November 13, 2026",
+    "location": "Dubai, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-233.html"
+  },
+  {
+    "id": "235",
+    "title": "SAP Sustainability Forum Dubai",
+    "date": "August 14, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-234.html"
+  },
+  {
+    "id": "236",
+    "title": "SAP AI & Data Forum Tokyo",
+    "date": "July 17, 2026",
+    "location": "Tokyo, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/ai-data-235.html"
+  },
+  {
+    "id": "237",
+    "title": "SAP Analytics Forum Johannesburg",
+    "date": "July 24, 2026",
+    "location": "Johannesburg, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/analytics-236.html"
+  },
+  {
+    "id": "238",
+    "title": "SAP Cloud ERP Summit Sao Paulo",
+    "date": "April 5, 2026",
+    "location": "Sao Paulo, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-237.html"
+  },
+  {
+    "id": "239",
+    "title": "SAP Business Process Forum Mumbai",
+    "date": "April 13, 2026",
+    "location": "Mumbai, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-238.html"
+  },
+  {
+    "id": "240",
+    "title": "SAP Sustainability Summit Chicago",
+    "date": "September 4, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/sustainability-239.html"
+  },
+  {
+    "id": "241",
+    "title": "SAP Supply Chain Forum Sydney",
+    "date": "May 1, 2026",
+    "location": "Sydney, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-240.html"
+  },
+  {
+    "id": "242",
+    "title": "SAP Customer Experience Summit Tokyo",
+    "date": "April 16, 2026",
+    "location": "Tokyo, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-241.html"
+  },
+  {
+    "id": "243",
+    "title": "SAP Business Process Forum Mumbai",
+    "date": "August 11, 2026",
+    "location": "Mumbai, Global",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/business-process-242.html"
+  },
+  {
+    "id": "244",
+    "title": "SAP Customer Experience Forum San Francisco",
+    "date": "June 7, 2026",
+    "location": "San Francisco, Regional",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/customer-experience-243.html"
+  },
+  {
+    "id": "245",
+    "title": "SAP Platform & Technology Forum Sao Paulo",
+    "date": "April 3, 2026",
+    "location": "Online",
+    "type": "Virtual",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/platform-technology-244.html"
+  },
+  {
+    "id": "246",
+    "title": "SAP Cloud ERP Summit Dubai",
+    "date": "May 17, 2026",
+    "location": "Dubai, Global",
+    "type": "In-Person",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/cloud-erp-245.html"
+  },
+  {
+    "id": "247",
+    "title": "SAP Supply Chain Summit Paris",
+    "date": "December 19, 2026",
+    "location": "Paris, Regional",
+    "type": "Hybrid",
+    "status": "not_applied",
+    "link": "https://www.sap.com/events/supply-chain-246.html"
+  }
+]

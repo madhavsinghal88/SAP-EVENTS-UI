@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SAP Events Tracker 🚀
 
-## Getting Started
+A premium, modern dashboard for tracking and managing applications to SAP events. Designed with a high-end dark aesthetic, glassmorphism, and automated state management.
 
-First, run the development server:
+![SAP Events Dashboard](/dashboard_preview.png)
 
+## ✨ Features
+
+- **Premium Dark UI**: Built with a custom design system, glass-panel cards, and high-quality iconography (Lucide React).
+- **Automated Tracking**:
+  - **Applied**: Mark events you've already completed.
+  - **To be Applied**: Events are automatically moved to a dedicated "Tracked" sidebar for easy focus.
+  - **Not Applied**: Browse the full catalog of upcoming events.
+- **Dynamic Filtering**: Sort through 240+ events by category (In-Person, Virtual, Hybrid).
+- **Table Sorting**: Sort the main event list by Date, Name, Location, or Status.
+- **Hourly Sync (Local Simulation)**: Includes logic to simulate hourly updates from the SAP portal.
+
+## 🛠 Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/) (App Router)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Styling**: Vanilla CSS / Styled JSX
+- **State Management**: React Hooks (useState/useEffect)
+- **Data Persistence**: `data/events.json` (Local) -> Ready for DB integration.
+
+## 🚀 Getting Started
+
+### 1. Installation
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Development
+```bash
+npm run dev
+```
+Open [http://localhost:8881](http://localhost:8881) in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 3. Population
+To reset or repopulate the database with the latest 247 events:
+```bash
+node scripts/populate_events.js
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📈 Deployment (Vercel)
 
-## Learn More
+To maintain persistence in production:
+1. Connect a **Database** (Vercel KV or Supabase).
+2. Update the API routes to use your DB instead of `events.json`.
+3. Set up a **Vercel Cron Job** to trigger the hourly scraper update.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Created by Antigravity AI.

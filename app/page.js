@@ -83,6 +83,17 @@ export default function Dashboard() {
       return sortConfig.direction === 'asc' ? dateA - dateB : dateB - dateA;
     }
 
+    if (sortConfig.key === 'status') {
+      const statusWeight = {
+        'to_be_applied': 1,
+        'not_applied': 2,
+        'applied': 3
+      };
+      const weightA = statusWeight[a.status] || 99;
+      const weightB = statusWeight[b.status] || 99;
+      return sortConfig.direction === 'asc' ? weightA - weightB : weightB - weightA;
+    }
+
     const valA = a[sortConfig.key] || '';
     const valB = b[sortConfig.key] || '';
 
@@ -95,7 +106,7 @@ export default function Dashboard() {
     const matchesTab = activeTab === 'All' || event.type === activeTab;
     const matchesSearch = event.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       event.location.toLowerCase().includes(searchTerm.toLowerCase());
-    return matchesTab && matchesSearch && event.status !== 'to_be_applied';
+    return matchesTab && matchesSearch;
   });
 
   const toBeAppliedEvents = events.filter(e => e.status === 'to_be_applied');

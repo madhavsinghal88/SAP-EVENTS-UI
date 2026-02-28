@@ -13,7 +13,7 @@ A premium, modern dashboard for tracking and managing applications to SAP events
   - **Not Applied**: Browse the full catalog of upcoming events.
 - **Dynamic Filtering**: Sort through 240+ events by category (In-Person, Virtual, Hybrid).
 - **Table Sorting**: Sort the main event list by Date, Name, Location, or Status.
-- **Hourly Sync (Local Simulation)**: Includes logic to simulate hourly updates from the SAP portal.
+- **48-Hour Sync (Local Simulation)**: Includes logic to simulate periodic updates (every 48 hours) from the SAP portal.
 
 ## 🛠 Tech Stack
 
@@ -47,6 +47,6 @@ node scripts/populate_events.js
 To maintain persistence in production:
 1. Connect a **Database** (Vercel KV or Supabase).
 2. Update the API routes to use your DB instead of `events.json`.
-3. Set up a **Vercel Cron Job** to trigger the hourly scraper update.
+3. Set up a **Vercel Cron Job** to trigger the scraper update every 48 hours (e.g., `0 0 */2 * *`).
 
 ---
